@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/tomnguyen2k/azure/master/install_web.sh"],
+  "commandToExecute": "./install_web.sh"
+}
